@@ -7,7 +7,7 @@
 ## PART ONE
 - [Chapter 0 - Juliette, Arizona, April 25, 7:00 a.m.](chapters/chapter_0.md)
 - [Chapter 1 - Greenhaven, Connecticut, June 30, 2:14 p.m.](chapters/chapter_1.md)
-- Chapter 2 - Greenhaven, Connecticut, June 30, 2:24 p.m.
+- [Chapter 2 - Greenhaven, Connecticut, June 30, 2:24 p.m.](chapters/chapter_2.md)
 - Chapter 3 - Greenhaven, Connecticut, July 2, 8:45 a.m.
 - Chapter 4 - Amber, Pennsylvania, July 3, 10:12 a.m.
 - Chapter 5 - Amber, Pennsylvania, July 3, 10:41 a.m.
